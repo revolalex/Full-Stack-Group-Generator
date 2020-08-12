@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GroupGenerator</title>
+    <link rel="stylesheet" href="student.css" />
+  </head>
+  <body>
+    <%- include('partial/header') %>
+    <section>
+      <h2>List of students</h2>
+      <div>
+        <ul>
+          <% for (var i = 0; i < studentArray.length ; i++) { %>
+          <li><%= studentArray[i].name %></li>
+          <% } %>
+        </ul>
+
+        <form action="/Students" method="POST">
+          <label for="">Student</label>
+          <input type="text" name="name" />
+          <button type="submit">Add a student</button>
+        </form>
+        <br /><br /><br />
+
+
+        <div class="bg"></div>
+        <div class="bg bg2"></div>
+        <div class="bg bg3"></div>
+        <!-- <div class="content">
+          <h1>Add Student</h1>
+        </div> -->
+      </div>
+    </section>
+  </body>
+</html>

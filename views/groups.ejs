@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Of Groups</title>
+    <link rel="stylesheet" href="groups.css" />
+  </head>
+
+  <body>
+    <%- include('partial/header') %>
+
+
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <!-- <div class="content">
+      <h1>Generate a Groupe</h1>
+    </div> -->
+
+    <div class="groupList">
+      <h2>Groups name</h2>
+      <ul>
+        <% for (var i = 0; i < groupsArray.length ; i++) { %>
+        <li><%= groupsArray[i].name + " ===== " + groupsArray[i].name_Of_Student %></li>
+        <% } %>
+      </ul>
+    </div>
+
+    <main>
+      <h2>Just Create :</h2>
+      <ul>
+        <% for (var i = 0; i < projectStudentsArray.length ; i++) { %>
+        <li><%= projectStudentsArray[i]%></li>
+        <% } %>
+      </ul>
+      <ul>
+
+      </ul>
+
+
+
+
+
+      <form action="/Groups" method="POST">
+        <input type="text" placeholder="ProjetName" name="projetName" />
+        <input type="text" placeholder="GroupsMembre" name="number"/>
+        <button type="submit">Generate</button>
+      </form>
+      
+    </main>
+  </body>
+</html>
