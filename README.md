@@ -1,7 +1,10 @@
 # Full-Stack-Group-Generator
-Full Stack Project
-> The goal was to realize my first Full-Stack project
+Full Stack Project (Front-End, Back-End, API, DB)
+> The goal was to realize a groupe generator in wich you can add a list off students, chose a number of students per groups and generate a groups randomly.
 ---
+
+## Mandatory
+Use MongoDB, Express, NodeJS, HTML, CSS, EJS
 
 ## Requirements
 
@@ -43,14 +46,14 @@ Front-End: <br>
 <img width="600" alt="Capture d’écran 2020-07-19 à 17 33 38" src="https://user-images.githubusercontent.com/56839789/90007334-dbdd2900-dc9a-11ea-935f-c56bc3846480.gif">
 
 VS-Code: <br>
-<img width="597" alt="Capture d’écran 2020-08-12 à 13 07 03" src="https://user-images.githubusercontent.com/56839789/90008577-dc76bf00-dc9c-11ea-9aea-cc576f68ddd9.png">
+<img width="597" alt="Capture d’écran 2020-08-12 à 13 07 03" src="https://user-images.githubusercontent.com/56839789/90008577-dc76bf00-dc9c-11ea-9aea-cc576f68ddd9.png">
 
 
 
 
 ## Structure:
 <br>
-<img width="290" alt="Capture d’écran 2020-08-12 à 13 10 45" src="https://user-images.githubusercontent.com/56839789/90008829-4000ec80-dc9d-11ea-9ea2-2f6b7969804e.png">
+<img width="290" alt="Capture d’écran 2020-08-12 à 13 10 45" src="https://user-images.githubusercontent.com/56839789/90008829-4000ec80-dc9d-11ea-9ea2-2f6b7969804e.png">
 <br>
 
 - views for the front-end
