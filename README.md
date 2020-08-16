@@ -3,10 +3,10 @@ Full Stack Project (Front-End, Back-End, API, DB)
 > The goal was to realize a groupe generator in wich you can add a list off students, chose a number of students per groups and generate a groups randomly.
 ---
 
-## Mandatory
+### Mandatory
 Use MongoDB, Express, NodeJS, HTML, CSS, EJS
 
-## Requirements
+### Requirements
 
 
 ### Node
