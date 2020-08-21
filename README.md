@@ -42,8 +42,8 @@ Use MongoDB, Express, NodeJS, HTML, CSS, EJS
     $ node main.js
     
 ## Screenshots:
-Front-End
-<img width="600" alt="Capture d’écran 2020-07-19 à 17 33 38" src="https://user-images.githubusercontent.com/56839789/90007334-dbdd2900-dc9a-11ea-935f-c56bc3846480.gif">
+Front-End <br>
+<img width="600" alt="Capture d’écran 2020-07-19 à 17 33 38" src="https://user-images.githubusercontent.com/56839789/90007334-dbdd2900-dc9a-11ea-935f-c56bc3846480.gif"> <br>
 
 
 VS-Code <br>
