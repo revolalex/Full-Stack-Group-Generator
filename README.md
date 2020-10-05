@@ -1,3 +1,5 @@
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2FFull-Stack-Group-Generator" alt="Hits">.
+
 # Full-Stack-Group-Generator
 Full Stack Project (Front-End, Back-End, API, DB)
 > The goal was to realize a groupe generator in wich you can add a list off students, chose a number of students per groups and generate a groups randomly.
