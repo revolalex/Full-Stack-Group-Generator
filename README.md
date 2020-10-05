@@ -1,3 +1,11 @@
+![](https://img.shields.io/badge/made%20with-javaScript-yellow?logo=javaScript).
+![](https://img.shields.io/badge/made%20with-node.js-success?logo=node.js).
+![](https://img.shields.io/badge/made%20with-mongoDB-blue?logo=mongoDB).
+
+<img src="https://img.shields.io/badge/Express-succes.svg" alt="Express">. 
+<img src="https://img.shields.io/badge/ejs-succes.svg" alt="ejs">.
+
+
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2FFull-Stack-Group-Generator" alt="Hits">.
 
 # Full-Stack-Group-Generator
@@ -73,7 +81,22 @@ http://localhost:8080/Groups<br>
 ==> to see the group in our collection (MongoDB) <br>
 
 
+## Status
+Project is:  _Finish_
 
-## Contact
-revolalex@gmail.com
+
+## Contact	
+- [![LinkedIn][linkedin-shield]][linkedin-url] 	
+- revolalex@gmail.com
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/alexandre-rodrigueza/
+
 
